@@ -26,6 +26,10 @@
 
 [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
 
+<br>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
+
 </div>
 
 ---
@@ -237,16 +241,6 @@ nuwa-skill/
 女娲不复制人。它提取认知操作系统。
 
 **女娲（Nuwa）**，中国神话里用泥土造人的女神。这里的泥土是公开信息，造出来的不是人，是一面镜子。
-
----
-
-## Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
-
-</div>
 
 ---
 
